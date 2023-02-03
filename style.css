@@ -1,0 +1,42 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+    font-size: 22px;
+    width: 100%;
+    margin: 0px;
+}
+
+#bed
+{
+    font-size: 30;
+    color: rgb(58, 92, 192);
+}
+
+#fruit_basket
+{
+    font-size: 30;
+    color: rgb(226, 24, 135);
+}
+
+#toy_basket
+{
+    font-size: 30;
+    color: aquamarine;
+}
+
+#TV
+{
+    font-size: 30;
+    color: rgb(75, 30, 127);
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 10px;
+}
